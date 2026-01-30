@@ -18,14 +18,10 @@ void clearBuffer();
 int main(int argc, char *argv[])
 {
 
-   // Declaracion de variables
-   if(fork() == fork())
-   {
-      printf("Hola\n");
-   }
-   {
-      printf("Adios\n");
-   }
-
+   fork();
+   fork();
+   fork();
+   printf("Hola\n");
+   sleep(2);
    return EXIT_SUCCESS;
 }
