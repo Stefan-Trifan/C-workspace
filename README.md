@@ -11,7 +11,6 @@ Incluye tanto el contenido de las asignaturas como el material adicional que he 
 - **Ejercicios de refuerzo** para mejorar comprensión y soltura
 - **Proyectos evaluables** de ambas asignaturas
 - **Exámenes**
-- **Ejercicios adicionales** 
 - **Curso de Udemy**:  
   *"Programación en C de Cero a Experto con Estructuras de Datos"* (48.5 horas de contenido)
 - **Entorno de pruebas**
