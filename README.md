@@ -1,4 +1,4 @@
-# C-WORKBENCH
+# C-WORKSPACE
 
 Este repositorio recoge **todo el trabajo, temario y ejercicios** realizados en **lenguaje C** durante el primer curso del grado en Ingeniería del Software.
 
