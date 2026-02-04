@@ -1,6 +1,6 @@
 # C-WORKBENCH
 
-Este repositorio recoge **todo el trabajo, temario y ejercicios** realizados en **programación en C** durante el primer curso del grado en Ingeniería del Software.
+Este repositorio recoge **todo el trabajo, temario y ejercicios** realizados en **lenguaje C** durante el primer curso del grado en Ingeniería del Software.
 
 Incluye tanto el contenido de las asignaturas como el material adicional que he completado por cuenta propia para reforzar mis conocimientos.
 
@@ -10,12 +10,11 @@ Incluye tanto el contenido de las asignaturas como el material adicional que he 
 - **Ejercicios hechos en clase** 
 - **Ejercicios de refuerzo** para mejorar comprensión y soltura
 - **Proyectos evaluables** de ambas asignaturas
-- **Mis exámenes**
-- **Ejercicios adicionales** realizados por mi cuenta
+- **Exámenes**
+- **Ejercicios adicionales** 
 - **Curso de Udemy**:  
   *"Programación en C de Cero a Experto con Estructuras de Datos"* (48.5 horas de contenido)
-- **Mi propia librería en C**
-- **Entorno personal de pruebas**
+- **Entorno de pruebas**
 
 ## Objetivo
 
