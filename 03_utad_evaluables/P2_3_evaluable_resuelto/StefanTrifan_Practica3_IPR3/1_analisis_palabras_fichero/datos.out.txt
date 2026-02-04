@@ -1,3 +1,0 @@
-uno. Numero de ocurrencias: 1. Lineas: 1
-dos. Numero de ocurrencias: 1. Lineas: 1
-tres. Numero de ocurrencias: 1. Lineas: 1
